@@ -12,7 +12,7 @@ employee
 id
 location
 ```
-
+To run the app, use the following command in the terminal: ```node index.js```.
 
 ## Some of my Assumptions for transforming the string:
 * The first character is always "(" and last character is always ")"
